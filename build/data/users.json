@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Alice Johnson",
+        "email": "alice.johnson@example.com",
+        "address": "123 Maple Street, Springfield",
+        "phone": "+1-555-1234"
+    },
+    {
+        "id": 2,
+        "name": "Bob Smith",
+        "email": "bob.smith@example.com",
+        "address": "456 Oak Avenue, Metropolis",
+        "phone": "+1-555-5678"
+    },
+    {
+        "id": 3,
+        "name": "Charlie Lee",
+        "email": "charlie.lee@example.com",
+        "address": "789 Pine Road, Gotham",
+        "phone": "+1-555-9012"
+    },
+    {
+        "id": 4,
+        "name": "kalyan",
+        "email": "kayanmail",
+        "address": "kaladd",
+        "phone": "9515"
+    },
+    {
+        "id": 5,
+        "name": "John Doe",
+        "email": "user@example.com",
+        "address": "123 Main St",
+        "phone": "123-456-7890"
+    },
+    {
+        "id": 6,
+        "name": "kiran",
+        "email": "kiran@gmail",
+        "address": "kiran mail",
+        "phone": "100"
+    }
+]
