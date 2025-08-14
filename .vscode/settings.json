@@ -1,0 +1,9 @@
+{
+    "chat.mcp.serverSampling": {
+        "learn-mcp/.vscode/mcp.json: test-mcp-server": {
+            "allowedModels": [
+                "copilot/claude-3.5-sonnet"
+            ]
+        }
+    }
+}

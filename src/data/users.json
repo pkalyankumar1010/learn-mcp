@@ -40,5 +40,12 @@
     "email": "kiran@gmail",
     "address": "kiran mail",
     "phone": "100"
+  },
+  {
+    "id": 7,
+    "name": "mg",
+    "email": "lk",
+    "address": "kl",
+    "phone": "df"
   }
 ]
